@@ -6,7 +6,7 @@ public class HelloWorld {
 		
 		System.out.println("Hello World from new branch!!");
 		System.out.println("Adding few more lines");
-		System.out.println("Sum is " + (3 + 7));
+		System.out.println("Sum is " + add(3, 7));
 		
 	}
 	
